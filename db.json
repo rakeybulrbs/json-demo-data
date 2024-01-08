@@ -195,6 +195,148 @@
       ]
     }
   },
+  "companies": [
+    {
+      "id": 1,
+      "company_id": 1,
+      "name": "Prokaushal Upodesta Ltd.",
+      "email": "",
+      "short_name": "",
+      "mobile": null,
+      "address": "29, PUL Tower, Sector-14, Dhaka",
+      "code": "01",
+      "created_at": "2023-12-12T05:14:21.000000Z",
+      "deleted_at": null,
+      "members": [
+        {
+          "id": 1,
+          "name": "Rakeybul Hasan",
+          "email": "rakeybulhasan@gmail.com",
+          "username": "rakeybulhasan@gmail.com",
+          "email_verified_at": "2023-06-14T06:16:15.000000Z",
+          "created_at": "2023-06-14T06:16:15.000000Z",
+          "updated_at": "2023-06-18T12:37:27.000000Z",
+          "deleted_at": null
+        },
+        {
+          "id": 4,
+          "name": "Manager ",
+          "email": "manager@gmail.com",
+          "username": "manager@gmail.com",
+          "email_verified_at": null,
+          "created_at": "2023-12-12T09:36:32.000000Z",
+          "updated_at": "2023-12-12T09:36:32.000000Z",
+          "deleted_at": null
+        },
+        {
+          "id": 5,
+          "name": "Vendor ",
+          "email": "vendor@cc.com",
+          "username": "vendor",
+          "email_verified_at": null,
+          "created_at": "2023-12-13T08:21:20.000000Z",
+          "updated_at": "2023-12-13T08:21:20.000000Z",
+          "deleted_at": null
+        },
+        {
+          "id": 6,
+          "name": "Joynal Mia",
+          "email": "joynal@gmail.com",
+          "username": "joynal",
+          "email_verified_at": null,
+          "created_at": "2023-12-17T09:08:38.000000Z",
+          "updated_at": "2023-12-17T09:08:38.000000Z",
+          "deleted_at": null
+        },
+        {
+          "id": 8,
+          "name": "Director ",
+          "email": "director@gmail.com",
+          "username": "director",
+          "email_verified_at": null,
+          "created_at": "2023-12-19T04:52:35.000000Z",
+          "updated_at": "2023-12-19T04:52:35.000000Z",
+          "deleted_at": null
+        }
+      ],
+      "projects": [
+        {
+          "id": 8,
+          "name": "test",
+          "slug": "test",
+          "data_type": "PROJECT",
+          "status": 1,
+          "members": [
+            {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "asdfad",
+          "slug": "asdfad",
+          "data_type": "PROJECT",
+          "status": 1,
+          "members": [
+            {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company_id": 2,
+      "name": "Engineering Services Ltd.",
+      "email": "",
+      "short_name": "",
+      "mobile": null,
+      "address": null,
+      "code": "02",
+      "created_at": "2023-12-12T05:21:45.000000Z",
+      "deleted_at": null,
+      "members": [
+        {
+          "id": 1,
+          "name": "Rakeybul Hasan",
+          "email": "rakeybulhasan@gmail.com",
+          "username": "rakeybulhasan@gmail.com",
+          "email_verified_at": "2023-06-14T06:16:15.000000Z",
+          "created_at": "2023-06-14T06:16:15.000000Z",
+          "updated_at": "2023-06-18T12:37:27.000000Z",
+          "deleted_at": null
+        },
+        {
+          "id": 4,
+          "name": "Manager ",
+          "email": "manager@gmail.com",
+          "username": "manager@gmail.com",
+          "email_verified_at": null,
+          "created_at": "2023-12-12T09:36:32.000000Z",
+          "updated_at": "2023-12-12T09:36:32.000000Z",
+          "deleted_at": null
+        }
+      ],
+      "projects": [
+        {
+          "id": 5,
+          "name": "ESL HQ",
+          "slug": "esl-hq",
+          "data_type": "PROJECT",
+          "status": 1,
+          "members": []
+        }
+      ]
+    }
+  ],
   "posts": [
     {
       "id": 1,
