@@ -1,4 +1,1266 @@
 {
+  "data": {
+    "projectInfo": {
+      "id": 12,
+      "name": "LentusLinks",
+      "members": [
+        {
+          "id": 1,
+          "name": "Rakeybul Hasan"
+        },
+        {
+          "id": 9,
+          "name": "Noor Khan "
+        },
+        {
+          "id": 2,
+          "name": "Nusrat Jahan Heer"
+        }
+      ],
+      "parent": [
+        {
+          "id": 11,
+          "name": "LazyCoders",
+          "data_type": "COMPANY",
+          "slug": "lazy-coder",
+          "members": [
+            {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com"
+            },
+            {
+              "id": 2,
+              "name": "Nusrat Jahan Heer",
+              "email": "sqa@rightbrainsolution.com"
+            },
+            {
+              "id": 9,
+              "name": "Noor Khan ",
+              "email": "nmkhan@emicrograph.com"
+            },
+            {
+              "id": 11,
+              "name": "Syed Mahdi ",
+              "email": "designer@rightbrainsolution.com"
+            }
+          ]
+        }
+      ],
+      "projectPriorities": [
+        {
+          "id": 10,
+          "name": "Low",
+          "project_id": 12,
+          "color_code": "#82f2f0",
+          "sort_order": 0
+        },
+        {
+          "id": 11,
+          "name": "Medium",
+          "project_id": 12,
+          "color_code": "#e38509",
+          "sort_order": 1
+        },
+        {
+          "id": 12,
+          "name": "High",
+          "project_id": 12,
+          "color_code": "#f40b2e",
+          "sort_order": 2
+        },
+        {
+          "id": 16,
+          "name": "General",
+          "project_id": 12,
+          "color_code": "#c7bdbd",
+          "sort_order": 3
+        }
+      ]
+    },
+    "taskSections": [
+      "untitled-section-4",
+      "done",
+      "in-progress",
+      "test-section-2",
+      "complete",
+      "test-section-1"
+    ],
+    "taskListSectionsName": {
+      "untitled-section-4": {
+        "id": 4,
+        "name": "To Do"
+      },
+      "done": {
+        "id": 5,
+        "name": "Done"
+      },
+      "in-progress": {
+        "id": 11,
+        "name": "In-progress"
+      },
+      "test-section-2": {
+        "id": 14,
+        "name": "test section for manager"
+      },
+      "complete": {
+        "id": 12,
+        "name": "Complete"
+      },
+      "test-section-1": {
+        "id": 13,
+        "name": "test section -1"
+      }
+    },
+    "tasks": {
+      "untitled-section-4": [
+        {
+          "id": 1,
+          "task_list_id": 4,
+          "task_id": 1,
+          "task_list_section_id": 4,
+          "sort_order": 0,
+          "priority_id": null,
+          "task": {
+            "id": 1,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "deleted_by": null,
+            "name": "Inside any empty Section there should be Add task option",
+            "slug": "inside-any-empty-section-there-should-be-add-task-option",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T04:31:23.000000Z",
+            "updated_at": "2023-12-18T04:31:23.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": null
+        },
+        {
+          "id": 36,
+          "task_list_id": 4,
+          "task_id": 36,
+          "task_list_section_id": 4,
+          "sort_order": 1,
+          "priority_id": null,
+          "task": null,
+          "priority": null
+        },
+        {
+          "id": 35,
+          "task_list_id": 4,
+          "task_id": 35,
+          "task_list_section_id": 4,
+          "sort_order": 1,
+          "priority_id": null,
+          "task": null,
+          "priority": null
+        },
+        {
+          "id": 34,
+          "task_list_id": 4,
+          "task_id": 34,
+          "task_list_section_id": 4,
+          "sort_order": 1,
+          "priority_id": null,
+          "task": null,
+          "priority": null
+        },
+        {
+          "id": 26,
+          "task_list_id": 4,
+          "task_id": 26,
+          "task_list_section_id": 4,
+          "sort_order": 1,
+          "priority_id": 11,
+          "task": {
+            "id": 26,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 2,
+              "name": "Nusrat Jahan Heer",
+              "email": "sqa@rightbrainsolution.com",
+              "username": "sqa@rightbrainsolution.com",
+              "email_verified_at": null,
+              "created_at": "2023-08-22T11:21:49.000000Z",
+              "updated_at": "2023-08-22T11:21:49.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "dfghj",
+            "slug": "dfghj",
+            "description": null,
+            "start_date": "2023-12-23",
+            "end_date": "2023-12-30",
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:26:21.000000Z",
+            "updated_at": "2023-12-23T06:59:18.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [
+              {
+                "id": 33,
+                "parent_id": 26,
+                "project_id": 12,
+                "assigned_to": null,
+                "created_by": 2,
+                "updated_by": 2,
+                "deleted_by": null,
+                "name": "yduysu",
+                "slug": "yduysu",
+                "description": null,
+                "start_date": null,
+                "end_date": null,
+                "status": "ACTIVE",
+                "created_at": "2023-12-23T07:06:25.000000Z",
+                "updated_at": "2023-12-23T07:06:25.000000Z",
+                "deleted_at": null
+              },
+              {
+                "id": 34,
+                "parent_id": 26,
+                "project_id": 12,
+                "assigned_to": null,
+                "created_by": 2,
+                "updated_by": 2,
+                "deleted_by": null,
+                "name": "sdjksdj",
+                "slug": "sdjksdj",
+                "description": null,
+                "start_date": null,
+                "end_date": null,
+                "status": "ACTIVE",
+                "created_at": "2023-12-23T07:06:37.000000Z",
+                "updated_at": "2023-12-23T07:06:37.000000Z",
+                "deleted_at": null
+              }
+            ],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        },
+        {
+          "id": 33,
+          "task_list_id": 4,
+          "task_id": 33,
+          "task_list_section_id": 4,
+          "sort_order": 2,
+          "priority_id": null,
+          "task": null,
+          "priority": null
+        },
+        {
+          "id": 32,
+          "task_list_id": 4,
+          "task_id": 32,
+          "task_list_section_id": 4,
+          "sort_order": 3,
+          "priority_id": null,
+          "task": null,
+          "priority": null
+        },
+        {
+          "id": 2,
+          "task_list_id": 4,
+          "task_id": 2,
+          "task_list_section_id": 4,
+          "sort_order": 4,
+          "priority_id": 10,
+          "task": {
+            "id": 2,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "Under task details upload word name should be Import & import icon should be a button upload",
+            "slug": "under-task-details-upload-word-name-should-be-import-import-icon-should-be-a-button-upload",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:25:16.000000Z",
+            "updated_at": "2023-12-18T05:25:16.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [
+              {
+                "id": 36,
+                "parent_id": 2,
+                "project_id": 12,
+                "assigned_to": null,
+                "created_by": 2,
+                "updated_by": 2,
+                "deleted_by": null,
+                "name": "dfhg",
+                "slug": "dfhg",
+                "description": null,
+                "start_date": null,
+                "end_date": null,
+                "status": "ACTIVE",
+                "created_at": "2023-12-23T07:16:07.000000Z",
+                "updated_at": "2023-12-23T07:16:07.000000Z",
+                "deleted_at": null
+              }
+            ],
+            "task_members": []
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        },
+        {
+          "id": 3,
+          "task_list_id": 4,
+          "task_id": 3,
+          "task_list_section_id": 4,
+          "sort_order": 5,
+          "priority_id": 12,
+          "task": {
+            "id": 3,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "While import data 2 time its become duplicate",
+            "slug": "while-import-data-2-time-its-become-duplicate",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:32:09.000000Z",
+            "updated_at": "2023-12-18T05:32:09.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 12,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "High",
+            "color_code": "#f40b2e",
+            "sort_order": 2,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:29.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "task_list_id": 4,
+          "task_id": 5,
+          "task_list_section_id": 4,
+          "sort_order": 6,
+          "priority_id": 11,
+          "task": {
+            "id": 5,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "as a super admin nusrat didnot get add priority option",
+            "slug": "as-a-super-admin-nusrat-didnot-get-add-priority-option",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:35:00.000000Z",
+            "updated_at": "2023-12-18T05:35:00.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        },
+        {
+          "id": 6,
+          "task_list_id": 4,
+          "task_id": 6,
+          "task_list_section_id": 4,
+          "sort_order": 7,
+          "priority_id": 10,
+          "task": {
+            "id": 6,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "after click on list page \"Enter Due Date\" then it should only show the input field",
+            "slug": "after-click-on-list-page-enter-due-date-then-it-should-only-show-the-input-field",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:37:23.000000Z",
+            "updated_at": "2023-12-18T05:37:23.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        },
+        {
+          "id": 24,
+          "task_list_id": 4,
+          "task_id": 24,
+          "task_list_section_id": 4,
+          "sort_order": 8,
+          "priority_id": 16,
+          "task": {
+            "id": 24,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "vvjhbjh",
+            "slug": "vvjhbjh",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:25:22.000000Z",
+            "updated_at": "2023-12-23T04:25:22.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 16,
+            "project_id": 12,
+            "created_by": 2,
+            "updated_by": 2,
+            "name": "General",
+            "color_code": "#c7bdbd",
+            "sort_order": 3,
+            "created_at": "2023-12-23T05:13:19.000000Z",
+            "updated_at": "2023-12-23T05:13:19.000000Z"
+          }
+        },
+        {
+          "id": 31,
+          "task_list_id": 4,
+          "task_id": 31,
+          "task_list_section_id": 4,
+          "sort_order": 9,
+          "priority_id": null,
+          "task": {
+            "id": 31,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com",
+              "email_verified_at": "2023-08-08T13:28:32.000000Z",
+              "created_at": "2023-08-08T13:28:33.000000Z",
+              "updated_at": "2023-08-08T13:28:33.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "fgfg",
+            "slug": "fgfg",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T06:58:12.000000Z",
+            "updated_at": "2023-12-23T06:58:55.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [
+              {
+                "id": 32,
+                "parent_id": 31,
+                "project_id": 12,
+                "assigned_to": null,
+                "created_by": 2,
+                "updated_by": 2,
+                "deleted_by": null,
+                "name": "Sub Task -1",
+                "slug": "sub-task-1-2",
+                "description": null,
+                "start_date": null,
+                "end_date": null,
+                "status": "ACTIVE",
+                "created_at": "2023-12-23T06:58:42.000000Z",
+                "updated_at": "2023-12-23T06:58:42.000000Z",
+                "deleted_at": null
+              }
+            ],
+            "task_members": []
+          },
+          "priority": null
+        }
+      ],
+      "done": [
+        {
+          "id": 7,
+          "task_list_id": 4,
+          "task_id": 7,
+          "task_list_section_id": 5,
+          "sort_order": 0,
+          "priority_id": 11,
+          "task": {
+            "id": 7,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "Attachment doesnot get activity history",
+            "slug": "attachment-doesnot-get-activity-history",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:39:30.000000Z",
+            "updated_at": "2023-12-18T05:39:30.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [
+              {
+                "id": 35,
+                "parent_id": 7,
+                "project_id": 12,
+                "assigned_to": null,
+                "created_by": 2,
+                "updated_by": 2,
+                "deleted_by": null,
+                "name": "bdjshd",
+                "slug": "bdjshd",
+                "description": null,
+                "start_date": null,
+                "end_date": null,
+                "status": "ACTIVE",
+                "created_at": "2023-12-23T07:06:45.000000Z",
+                "updated_at": "2023-12-23T07:06:45.000000Z",
+                "deleted_at": null
+              }
+            ],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        },
+        {
+          "id": 19,
+          "task_list_id": 4,
+          "task_id": 19,
+          "task_list_section_id": 5,
+          "sort_order": 1,
+          "priority_id": 11,
+          "task": {
+            "id": 19,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com",
+              "email_verified_at": "2023-08-08T13:28:32.000000Z",
+              "created_at": "2023-08-08T13:28:33.000000Z",
+              "updated_at": "2023-08-08T13:28:33.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "ytftfygh",
+            "slug": "ytftfygh",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:24:47.000000Z",
+            "updated_at": "2023-12-23T05:16:16.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        },
+        {
+          "id": 23,
+          "task_list_id": 4,
+          "task_id": 23,
+          "task_list_section_id": 5,
+          "sort_order": 2,
+          "priority_id": 12,
+          "task": {
+            "id": 23,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com",
+              "email_verified_at": "2023-08-08T13:28:32.000000Z",
+              "created_at": "2023-08-08T13:28:33.000000Z",
+              "updated_at": "2023-08-08T13:28:33.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "fgchgvh",
+            "slug": "fgchgvh",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:25:13.000000Z",
+            "updated_at": "2023-12-23T05:15:44.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 12,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "High",
+            "color_code": "#f40b2e",
+            "sort_order": 2,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:29.000000Z"
+          }
+        },
+        {
+          "id": 25,
+          "task_list_id": 4,
+          "task_id": 25,
+          "task_list_section_id": 5,
+          "sort_order": 3,
+          "priority_id": 10,
+          "task": {
+            "id": 25,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 14,
+              "name": "Super Admin ",
+              "email": "super@t.c",
+              "username": "superadmin",
+              "email_verified_at": null,
+              "created_at": "2023-12-20T06:15:28.000000Z",
+              "updated_at": "2023-12-20T06:15:28.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "vbmb",
+            "slug": "vbmb",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:26:11.000000Z",
+            "updated_at": "2023-12-23T05:28:48.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        },
+        {
+          "id": 28,
+          "task_list_id": 4,
+          "task_id": 28,
+          "task_list_section_id": 5,
+          "sort_order": 4,
+          "priority_id": 16,
+          "task": {
+            "id": 28,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "xcvbn",
+            "slug": "xcvbn",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:26:34.000000Z",
+            "updated_at": "2023-12-23T04:26:34.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 16,
+            "project_id": 12,
+            "created_by": 2,
+            "updated_by": 2,
+            "name": "General",
+            "color_code": "#c7bdbd",
+            "sort_order": 3,
+            "created_at": "2023-12-23T05:13:19.000000Z",
+            "updated_at": "2023-12-23T05:13:19.000000Z"
+          }
+        },
+        {
+          "id": 22,
+          "task_list_id": 4,
+          "task_id": 22,
+          "task_list_section_id": 5,
+          "sort_order": 5,
+          "priority_id": 10,
+          "task": {
+            "id": 22,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "vhnvhvh",
+            "slug": "vhnvhvh",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:25:06.000000Z",
+            "updated_at": "2023-12-23T04:25:06.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "task_list_id": 4,
+          "task_id": 4,
+          "task_list_section_id": 5,
+          "sort_order": 6,
+          "priority_id": 12,
+          "task": {
+            "id": 4,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "admin are getting all the workspace even after its not assign",
+            "slug": "admin-are-getting-all-the-workspace-even-after-its-not-assign",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:33:59.000000Z",
+            "updated_at": "2023-12-18T05:33:59.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 12,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "High",
+            "color_code": "#f40b2e",
+            "sort_order": 2,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:29.000000Z"
+          }
+        },
+        {
+          "id": 18,
+          "task_list_id": 4,
+          "task_id": 18,
+          "task_list_section_id": 5,
+          "sort_order": 7,
+          "priority_id": null,
+          "task": {
+            "id": 18,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com",
+              "email_verified_at": "2023-08-08T13:28:32.000000Z",
+              "created_at": "2023-08-08T13:28:33.000000Z",
+              "updated_at": "2023-08-08T13:28:33.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "test task",
+            "slug": "test-task",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-20T11:25:49.000000Z",
+            "updated_at": "2023-12-20T11:27:32.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": null
+        },
+        {
+          "id": 8,
+          "task_list_id": 4,
+          "task_id": 8,
+          "task_list_section_id": 5,
+          "sort_order": 8,
+          "priority_id": 10,
+          "task": {
+            "id": 8,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 1,
+              "name": "Rakeybul Hasan",
+              "email": "rakeybulhasan@gmail.com",
+              "username": "rakeybulhasan@gmail.com",
+              "email_verified_at": "2023-08-08T13:28:32.000000Z",
+              "created_at": "2023-08-08T13:28:33.000000Z",
+              "updated_at": "2023-08-08T13:28:33.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "Comment field Save button name should be Sent",
+            "slug": "comment-field-save-button-name-should-be-sent",
+            "description": null,
+            "start_date": "2023-12-18",
+            "end_date": "2023-12-21",
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:43:44.000000Z",
+            "updated_at": "2023-12-18T05:44:14.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": [
+              {
+                "id": 1,
+                "name": "Rakeybul Hasan",
+                "email": "rakeybulhasan@gmail.com",
+                "username": "rakeybulhasan@gmail.com",
+                "email_verified_at": "2023-08-08T13:28:32.000000Z",
+                "created_at": "2023-08-08T13:28:33.000000Z",
+                "updated_at": "2023-08-08T13:28:33.000000Z",
+                "deleted_at": null,
+                "pivot": {
+                  "task_id": 8,
+                  "user_id": 1
+                }
+              }
+            ]
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        }
+      ],
+      "in-progress": [
+        {
+          "id": 20,
+          "task_list_id": 4,
+          "task_id": 20,
+          "task_list_section_id": 11,
+          "sort_order": 0,
+          "priority_id": 10,
+          "task": {
+            "id": 20,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "nbvnbn",
+            "slug": "nbvnbn",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:24:54.000000Z",
+            "updated_at": "2023-12-23T04:24:54.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 10,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "Low",
+            "color_code": "#82f2f0",
+            "sort_order": 0,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:36.000000Z"
+          }
+        },
+        {
+          "id": 9,
+          "task_list_id": 4,
+          "task_id": 9,
+          "task_list_section_id": 11,
+          "sort_order": 1,
+          "priority_id": 11,
+          "task": {
+            "id": 9,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "while Adding task assign to option doesnot show person",
+            "slug": "while-adding-task-assign-to-option-doesnot-show-person",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-18T05:45:32.000000Z",
+            "updated_at": "2023-12-18T05:45:32.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        },
+        {
+          "id": 27,
+          "task_list_id": 4,
+          "task_id": 27,
+          "task_list_section_id": 11,
+          "sort_order": 2,
+          "priority_id": 16,
+          "task": {
+            "id": 27,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "wertyu",
+            "slug": "wertyu",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:26:27.000000Z",
+            "updated_at": "2023-12-23T04:26:27.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 16,
+            "project_id": 12,
+            "created_by": 2,
+            "updated_by": 2,
+            "name": "General",
+            "color_code": "#c7bdbd",
+            "sort_order": 3,
+            "created_at": "2023-12-23T05:13:19.000000Z",
+            "updated_at": "2023-12-23T05:13:19.000000Z"
+          }
+        }
+      ],
+      "complete": [
+        {
+          "id": 21,
+          "task_list_id": 4,
+          "task_id": 21,
+          "task_list_section_id": 12,
+          "sort_order": 0,
+          "priority_id": 11,
+          "task": {
+            "id": 21,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "b bnnbmnbmn,m",
+            "slug": "b-bnnbmnbmn-m",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T04:25:00.000000Z",
+            "updated_at": "2023-12-23T04:25:00.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 11,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": null,
+            "name": "Medium",
+            "color_code": "#e38509",
+            "sort_order": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        }
+      ],
+      "test-section-1": [
+        {
+          "id": 29,
+          "task_list_id": 4,
+          "task_id": 29,
+          "task_list_section_id": 13,
+          "sort_order": 0,
+          "priority_id": 12,
+          "task": {
+            "id": 29,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": null,
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "vbg",
+            "slug": "vbg",
+            "description": null,
+            "start_date": null,
+            "end_date": null,
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T05:12:11.000000Z",
+            "updated_at": "2023-12-23T05:12:11.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": []
+          },
+          "priority": {
+            "id": 12,
+            "project_id": 12,
+            "created_by": null,
+            "updated_by": 2,
+            "name": "High",
+            "color_code": "#f40b2e",
+            "sort_order": 2,
+            "created_at": null,
+            "updated_at": "2023-12-23T05:13:29.000000Z"
+          }
+        },
+        {
+          "id": 30,
+          "task_list_id": 4,
+          "task_id": 30,
+          "task_list_section_id": 13,
+          "sort_order": 1,
+          "priority_id": 16,
+          "task": {
+            "id": 30,
+            "parent_id": null,
+            "project_id": 12,
+            "assigned_to": {
+              "id": 9,
+              "name": "Noor Khan ",
+              "email": "nmkhan@emicrograph.com",
+              "username": "nmkhan",
+              "email_verified_at": null,
+              "created_at": "2023-12-13T06:38:12.000000Z",
+              "updated_at": "2023-12-13T06:38:12.000000Z",
+              "deleted_at": null
+            },
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted_by": null,
+            "name": "abc",
+            "slug": "abc",
+            "description": "sjdfndsklvkjvdk skdjcbasdkj jhfvbar;fuei;r ierfguief iuewfhui",
+            "start_date": "2023-12-30",
+            "end_date": "2024-01-12",
+            "status": "ACTIVE",
+            "created_at": "2023-12-23T06:36:43.000000Z",
+            "updated_at": "2023-12-23T06:45:49.000000Z",
+            "deleted_at": null,
+            "parent": null,
+            "children": [],
+            "task_members": [
+              {
+                "id": 1,
+                "name": "Rakeybul Hasan",
+                "email": "rakeybulhasan@gmail.com",
+                "username": "rakeybulhasan@gmail.com",
+                "email_verified_at": "2023-08-08T13:28:32.000000Z",
+                "created_at": "2023-08-08T13:28:33.000000Z",
+                "updated_at": "2023-08-08T13:28:33.000000Z",
+                "deleted_at": null,
+                "pivot": {
+                  "task_id": 30,
+                  "user_id": 1
+                }
+              }
+            ]
+          },
+          "priority": {
+            "id": 16,
+            "project_id": 12,
+            "created_by": 2,
+            "updated_by": 2,
+            "name": "General",
+            "color_code": "#c7bdbd",
+            "sort_order": 3,
+            "created_at": "2023-12-23T05:13:19.000000Z",
+            "updated_at": "2023-12-23T05:13:19.000000Z"
+          }
+        }
+      ]
+    }
+  },
   "posts": [
     {
       "id": 1,
