@@ -57,6 +57,14 @@
         }
       ]
     },
+    "taskSections": [
+      "untitled-section-4",
+      "done",
+      "in-progress",
+      "test-section-2",
+      "complete",
+      "test-section-1"
+    ],
     "taskListSectionsName": {
       "untitled-section-4": {
         "id": 4,
