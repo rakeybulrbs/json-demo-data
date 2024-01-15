@@ -59,17 +59,12 @@
     },
     "taskSections": [
       "untitled-section-4",
-      "in-progress",
       "complete"
     ],
     "taskListSectionsName": {
       "untitled-section-4": {
         "id": 4,
         "name": "To Do"
-      },
-      "in-progress": {
-        "id": 11,
-        "name": "In-progress"
       },
       "complete": {
         "id": 12,
@@ -107,48 +102,6 @@
             "task_members": []
           },
           "priority": null
-        }
-      ],
-      "in-progress": [
-        {
-          "id": 9,
-          "task_list_id": 4,
-          "task_id": 9,
-          "task_list_section_id": 11,
-          "sort_order": 1,
-          "priority_id": 11,
-          "task": {
-            "id": 9,
-            "parent_id": null,
-            "project_id": 12,
-            "assigned_to": null,
-            "created_by": 2,
-            "updated_by": 2,
-            "deleted_by": null,
-            "name": "while Adding task assign to option doesnot show person",
-            "slug": "while-adding-task-assign-to-option-doesnot-show-person",
-            "description": null,
-            "start_date": null,
-            "end_date": null,
-            "status": "ACTIVE",
-            "created_at": "2023-12-18T05:45:32.000000Z",
-            "updated_at": "2023-12-18T05:45:32.000000Z",
-            "deleted_at": null,
-            "parent": null,
-            "children": [],
-            "task_members": []
-          },
-          "priority": {
-            "id": 11,
-            "project_id": 12,
-            "created_by": null,
-            "updated_by": null,
-            "name": "Medium",
-            "color_code": "#e38509",
-            "sort_order": 1,
-            "created_at": null,
-            "updated_at": null
-          }
         }
       ],
       "complete": [
@@ -338,67 +291,6 @@
     }
   ],
   "all-members": [
-    {
-      "id": 1,
-      "name": "Rakeybul Hasan",
-      "email": "rakeybulhasan@gmail.com",
-      "username": "rakeybulhasan@gmail.com",
-      "created_at": "2023-08-08T13:28:33.000000Z",
-      "deleted_at": null,
-      "firstName": "Rakeybul",
-      "lastName": "Hasan",
-      "mobile": null,
-      "hsLimit": null,
-      "roles": [
-        {
-          "id": 1,
-          "name": "Superadmin"
-        },
-        {
-          "id": 2,
-          "name": "Admin",
-          "guard_name": "web"
-        }
-      ],
-      "companies": [
-        {
-          "id": 1,
-          "name": "Prokaushal Upodesta Ltd."
-        },
-        {
-          "id": 2,
-          "name": "Engineering Services Ltd."
-        },
-        {
-          "id": 3,
-          "name": "The Eastway Electric Co."
-        },
-        {
-          "id": 7,
-          "name": "Right Brain Solution Ltd."
-        },
-        {
-          "id": 8,
-          "name": "Hillcrest Printers Ltd."
-        },
-        {
-          "id": 9,
-          "name": "PUL Industries Ltd."
-        },
-        {
-          "id": 10,
-          "name": "Atlanta Enterprise Ltd."
-        },
-        {
-          "id": 11,
-          "name": "LazyCoders"
-        },
-        {
-          "id": 14,
-          "name": "Project Management System - Test"
-        }
-      ]
-    },
     {
       "id": 2,
       "name": "Nusrat Jahan Heer",
