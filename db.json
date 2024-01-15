@@ -337,16 +337,6 @@
       ]
     }
   ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello 1"
-    },
-    {
-      "id": 2,
-      "title": "hello 2"
-    }
-  ],
   "all-members": [
     {
       "id": 1,
@@ -436,73 +426,6 @@
           "name": "LazyCoders"
         }
       ]
-    },
-    {
-      "id": 9,
-      "name": "Noor Khan ",
-      "email": "nmkhan@emicrograph.com",
-      "username": "nmkhan",
-      "created_at": "2023-12-13T06:38:12.000000Z",
-      "deleted_at": null,
-      "firstName": "Noor Khan",
-      "lastName": null,
-      "mobile": null,
-      "hsLimit": null,
-      "roles": [
-        {
-          "id": 1,
-          "name": "Superadmin"
-        },
-        {
-          "id": 2,
-          "name": "Admin"
-        },
-        {
-          "id": 4,
-          "name": "Creator"
-        }
-      ],
-      "companies": [
-        {
-          "id": 1,
-          "name": "Prokaushal Upodesta Ltd."
-        },
-        {
-          "id": 2,
-          "name": "Engineering Services Ltd."
-        },
-        {
-          "id": 3,
-          "name": "The Eastway Electric Co."
-        },
-        {
-          "id": 7,
-          "name": "Right Brain Solution Ltd."
-        },
-        {
-          "id": 8,
-          "name": "Hillcrest Printers Ltd."
-        },
-        {
-          "id": 9,
-          "name": "PUL Industries Ltd."
-        },
-        {
-          "id": 10,
-          "name": "Atlanta Enterprise Ltd."
-        },
-        {
-          "id": 11,
-          "name": "LazyCoders"
-        },
-        {
-          "id": 14,
-          "name": "Project Management System - Test"
-        }
-      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
