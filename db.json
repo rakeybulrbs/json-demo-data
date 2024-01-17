@@ -13,26 +13,24 @@
           "name": "Nusrat Jahan Heer"
         }
       ],
-      "parent": [
-        {
-          "id": 11,
-          "name": "LazyCoders",
-          "data_type": "COMPANY",
-          "slug": "lazy-coder",
-          "members": [
-            {
-              "id": 1,
-              "name": "Rakeybul Hasan",
-              "email": "rakeybulhasan@gmail.com"
-            },
-            {
-              "id": 2,
-              "name": "Nusrat Jahan Heer",
-              "email": "sqa@rightbrainsolution.com"
-            }
-          ]
-        }
-      ],
+      "parent": {
+        "id": 11,
+        "name": "LazyCoders",
+        "data_type": "COMPANY",
+        "slug": "lazy-coder",
+        "members": [
+          {
+            "id": 1,
+            "name": "Rakeybul Hasan",
+            "email": "rakeybulhasan@gmail.com"
+          },
+          {
+            "id": 2,
+            "name": "Nusrat Jahan Heer",
+            "email": "sqa@rightbrainsolution.com"
+          }
+        ]
+      },
       "projectPriorities": [
         {
           "id": 10,
